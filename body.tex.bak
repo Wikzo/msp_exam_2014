@@ -16,13 +16,13 @@ According to \cite{imiTwo}, the intrinsic motivation inventory has gained widesp
 
 The IMI model consists of a big number of questions; however, the full set is rarely used, and it seems that inclusion/exclusion of any one factor does not affect the properties of the remaining factors \citep{imiTwo}. They can easily be modified to suit a specific activity \citep{imiOne}. E.g., an item such as "I tried very hard to do well at this activity" can be modified to a specific context, for instance a videogame, where it is replaced with "I tried very hard to do well on these puzzles in level 2".
 
-\section{Designing Questionnaire For Extended Project}
+\section{Designing Questionnaire For Extended Project} \label{qustionnaire}
 For the extended project, a questionnaire was designed in order to gather information about the test participant's experience with the prototype developed during the course (see Figure \ref{fig:prototype}). The prototype consisted of a simple platforming game based around three different modalities: eye-tracking, accelerometer, posture/voice analysis.
 
 \begin{figure}[htbp]
 \centering
 \includegraphics[width=0.70\textwidth]{Pictures/extended_modality}
-\caption{Test participants played the prototype with extended modalities.}
+\caption{Three test participants playing the prototype with extended modalities.}
 \label{fig:prototype}
 \end{figure}
 
@@ -64,7 +64,7 @@ For each question, participants were asked to rate themselves on a scale from 1 
    \begin{enumerate}
      \item I did things spontaneously and automatically without having to think
    \end{enumerate}
-   \item \textbf{Loss of reflective self-consciousness}
+   \item \textbf{Loss of reflective self-consciousness (loss of awareness of oneself as a social actor)}
    \begin{enumerate}
      \item I was not concerned with how others may have been evaluating me
    \end{enumerate}
@@ -74,6 +74,8 @@ For each question, participants were asked to rate themselves on a scale from 1 
      \item I knew clearly what I wanted to do
 	 \item It was really clear to me how my performance was going
 	 \item I had a strong sense of what I wanted to do
+	 \item My goals were clearly defined
+	 \item The challenge and skills among other players were at an equally high level
    \end{enumerate}
    \item \textbf{Distortion of temporal experience}
    \begin{enumerate}
@@ -96,6 +98,21 @@ As mentioned several times, flow is about finding the balance between challenge 
 
 For the fifth category, one question was asked to gain insights on if participants felt that they lost their notion of time. However, since each test session lasted for less than 10 minutes, not a lot of effort was put into this category.
 
-For the last category, two questions were asked about intrinsic motivation. It should be noted that the test participants didn't volunteerly ask to take part in the test. Instead, they might have felt a minor pressure to participate. This can have had an influence in their intrinsic movitation.
+For the last category, two questions were asked about intrinsic motivation. It should be noted that the test participants didn't voluntarily ask to take part in the test. Instead, they might have felt a minor pressure to participate. This can have had an influence in their intrinsic motivation. Also, this area will be examined further in the following questions concerning intrinsic motivation.
 
-might have felt a certain pressure of having to t
+\subsection{Questions Related to Intrinsic Motivation}
+For the IMI part, a selection of questions were asked. Again, participants rated themselves on a scale from 1 to 5, where 1 was "strongly disagree" and 5 was "strongly agree".
+
+\begin{enumerate}
+\item I think I did pretty well at this activity, compared to other players
+\item This was an activity that I couldn't do very well
+\item I felt more close to the other players after playing the game
+\item I put a lot of effort into this
+\item I felt like I had choice about interacting with other players
+\item I felt pressured while doing the activities
+\item I trusted people less after playing the game
+\item I felt like it was not my own choice to do the activities
+\item I did not feel at all nervous about interacting with other players
+\end{enumerate}
+
+These questions are a little more varied, with the goal of examining the test participants' overall experience with playing the game. Compared to the previous flow-related questions that focused on one's personal experience (looking inwards), the IMI questions have more focus on player-to-player interaction (looking outwards). Since the context is a multiplayer game, it was important to investigate how the players feel about each other. Despite it being a competitive game where the goal is to beat the other players, it's also a social game where people, hopefully, bond with each other and feel more connected after playing. This is why the questions ask players about topics such as \textit{interacting with other players}, \textit{feeling more close after playing the game} and \textit{trusting players less after playing the game}. The last question was asked, since for the full project (that was going to be developed after this prototype), the game would be based on deceptive mechanics similar to bluffing in the game of poker.

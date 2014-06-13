@@ -26,6 +26,7 @@
 
 \include{topic}
 \include{body}
+\include{data}
 
 
 %%% Template for pictures and references %%%
